@@ -1,0 +1,638 @@
+match_winner,Team1,Team2,Venue_Name,Toss_Winner
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings
+Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Rajasthan Royals
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Mumbai Indians
+Kolkata Knight Riders,Kolkata Knight Riders,Deccan Chargers,Eden Gardens,Deccan Chargers
+Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Kings XI Punjab
+Delhi Daredevils,Deccan Chargers,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers
+Chennai Super Kings,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Mumbai Indians
+Rajasthan Royals,Deccan Chargers,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals
+Kings XI Punjab,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Rajasthan Royals
+Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders
+Deccan Chargers,Mumbai Indians,Deccan Chargers,Dr DY Patil Sports Academy,Deccan Chargers
+Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata Knight Riders
+Delhi Daredevils,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Royal Challengers Bangalore
+Kings XI Punjab,Deccan Chargers,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab
+Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Rajasthan Royals
+Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers
+Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Mumbai Indians,Mumbai Indians,Delhi Daredevils,Dr DY Patil Sports Academy,Delhi Daredevils
+Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Chennai Super Kings
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab
+Deccan Chargers,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",Deccan Chargers
+Mumbai Indians,Mumbai Indians,Rajasthan Royals,Dr DY Patil Sports Academy,Mumbai Indians
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Chennai Super Kings
+Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Kolkata Knight Riders
+Rajasthan Royals,Rajasthan Royals,Deccan Chargers,Sawai Mansingh Stadium,Rajasthan Royals
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Kings XI Punjab
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders
+Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,Rajasthan Royals
+Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore
+Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders
+Mumbai Indians,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai Indians
+Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals
+Delhi Daredevils,Delhi Daredevils,Deccan Chargers,Feroz Shah Kotla,Deccan Chargers
+Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians
+Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils
+Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Royal Challengers Bangalore
+Mumbai Indians,Deccan Chargers,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata Knight Riders
+Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Delhi Daredevils
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore
+Kings XI Punjab,Kings XI Punjab,Deccan Chargers,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Delhi Daredevils
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals
+Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,M Chinnaswamy Stadium,Deccan Chargers
+Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab
+Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers
+Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,Delhi Daredevils
+Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,Kings XI Punjab
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Dr DY Patil Sports Academy,Rajasthan Royals
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,Newlands,Chennai Super Kings
+Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Newlands,Royal Challengers Bangalore
+Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Newlands,Delhi Daredevils
+Deccan Chargers,Deccan Chargers,Kolkata Knight Riders,Newlands,Kolkata Knight Riders
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,St George's Park,Chennai Super Kings
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kingsmead,Kolkata Knight Riders
+Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Newlands,Deccan Chargers
+Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Kingsmead,Delhi Daredevils
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Newlands,Kolkata Knight Riders
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Kingsmead,Royal Challengers Bangalore
+Deccan Chargers,Deccan Chargers,Mumbai Indians,Kingsmead,Deccan Chargers
+Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,St George's Park,Royal Challengers Bangalore
+Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Newlands,Kings XI Punjab
+Deccan Chargers,Chennai Super Kings,Deccan Chargers,Kingsmead,Deccan Chargers
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,St George's Park,Mumbai Indians
+Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,SuperSport Park,Delhi Daredevils
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kingsmead,Kolkata Knight Riders
+Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Kingsmead,Kings XI Punjab
+Delhi Daredevils,Deccan Chargers,Delhi Daredevils,SuperSport Park,Delhi Daredevils
+Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,SuperSport Park,Rajasthan Royals
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Buffalo Park,Mumbai Indians
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kingsmead,Royal Challengers Bangalore
+Rajasthan Royals,Deccan Chargers,Rajasthan Royals,St George's Park,Deccan Chargers
+Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,New Wanderers Stadium,Delhi Daredevils
+Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,St George's Park,Kolkata Knight Riders
+Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,New Wanderers Stadium,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Deccan Chargers,Buffalo Park,Chennai Super Kings
+Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Kingsmead,Kings XI Punjab
+Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Kingsmead,Kolkata Knight Riders
+Deccan Chargers,Deccan Chargers,Mumbai Indians,SuperSport Park,Deccan Chargers
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,SuperSport Park,Rajasthan Royals
+Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,SuperSport Park,Chennai Super Kings
+Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Buffalo Park,Mumbai Indians
+Kings XI Punjab,Deccan Chargers,Kings XI Punjab,De Beers Diamond Oval,Kings XI Punjab
+Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,De Beers Diamond Oval,Rajasthan Royals
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,St George's Park,Mumbai Indians
+Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,New Wanderers Stadium,Delhi Daredevils
+Deccan Chargers,Deccan Chargers,Rajasthan Royals,De Beers Diamond Oval,Deccan Chargers
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,SuperSport Park,Royal Challengers Bangalore
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,SuperSport Park,Kings XI Punjab
+Delhi Daredevils,Deccan Chargers,Delhi Daredevils,Kingsmead,Deccan Chargers
+Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Kingsmead,Chennai Super Kings
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Kingsmead,Rajasthan Royals
+Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,OUTsurance Oval,Kings XI Punjab
+Chennai Super Kings,Chennai Super Kings,Mumbai Indians,St George's Park,Mumbai Indians
+Deccan Chargers,Deccan Chargers,Kolkata Knight Riders,New Wanderers Stadium,Deccan Chargers
+Kings XI Punjab,Deccan Chargers,Kings XI Punjab,New Wanderers Stadium,Deccan Chargers
+Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,OUTsurance Oval,Delhi Daredevils
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,SuperSport Park,Chennai Super Kings
+Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,New Wanderers Stadium,Delhi Daredevils
+Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Kingsmead,Kolkata Knight Riders
+Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Kingsmead,Chennai Super Kings
+Delhi Daredevils,Delhi Daredevils,Mumbai Indians,SuperSport Park,Delhi Daredevils
+Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,SuperSport Park,Royal Challengers Bangalore
+Deccan Chargers,Delhi Daredevils,Deccan Chargers,SuperSport Park,Deccan Chargers
+Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,New Wanderers Stadium,Royal Challengers Bangalore
+Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,New Wanderers Stadium,Royal Challengers Bangalore
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Dr DY Patil Sports Academy,Deccan Chargers
+Mumbai Indians,Mumbai Indians,Rajasthan Royals,Brabourne Stadium,Mumbai Indians
+Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils
+Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Kolkata Knight Riders
+Deccan Chargers,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",Deccan Chargers
+Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,"Sardar Patel Stadium, Motera",Delhi Daredevils
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Chennai Super Kings
+Mumbai Indians,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Delhi Daredevils
+Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Delhi Daredevils
+Deccan Chargers,Deccan Chargers,Kings XI Punjab,Barabati Stadium,Kings XI Punjab
+Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,"Sardar Patel Stadium, Motera",Rajasthan Royals
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Brabourne Stadium,Mumbai Indians
+Deccan Chargers,Deccan Chargers,Delhi Daredevils,Barabati Stadium,Deccan Chargers
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Brabourne Stadium,Kolkata Knight Riders
+Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings
+Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Mumbai Indians,Mumbai Indians,Chennai Super Kings,Brabourne Stadium,Mumbai Indians
+Rajasthan Royals,Rajasthan Royals,Deccan Chargers,"Sardar Patel Stadium, Motera",Deccan Chargers
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders
+Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,"Sardar Patel Stadium, Motera",Rajasthan Royals
+Mumbai Indians,Deccan Chargers,Mumbai Indians,Dr DY Patil Sports Academy,Deccan Chargers
+Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils
+Mumbai Indians,Mumbai Indians,Kings XI Punjab,Brabourne Stadium,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore
+Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Delhi Daredevils
+Kolkata Knight Riders,Kolkata Knight Riders,Deccan Chargers,Eden Gardens,Kolkata Knight Riders
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Mumbai Indians,Mumbai Indians,Deccan Chargers,Brabourne Stadium,Mumbai Indians
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kolkata Knight Riders
+Delhi Daredevils,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi Daredevils
+Rajasthan Royals,Deccan Chargers,Rajasthan Royals,"Vidarbha Cricket Association Stadium, Jamtha",Rajasthan Royals
+Chennai Super Kings,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Kings XI Punjab
+Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders
+Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,M Chinnaswamy Stadium,Deccan Chargers
+Kings XI Punjab,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians
+Deccan Chargers,Deccan Chargers,Chennai Super Kings,"Vidarbha Cricket Association Stadium, Jamtha",Chennai Super Kings
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals
+Deccan Chargers,Deccan Chargers,Royal Challengers Bangalore,"Vidarbha Cricket Association Stadium, Jamtha",Royal Challengers Bangalore
+Mumbai Indians,Mumbai Indians,Delhi Daredevils,Brabourne Stadium,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Rajasthan Royals
+Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Deccan Chargers,Kings XI Punjab,Deccan Chargers,Himachal Pradesh Cricket Association Stadium,Deccan Chargers
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,Chennai Super Kings
+Deccan Chargers,Delhi Daredevils,Deccan Chargers,Feroz Shah Kotla,Deccan Chargers
+Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Mumbai Indians
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Dr DY Patil Sports Academy,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Deccan Chargers,Dr DY Patil Sports Academy,Chennai Super Kings
+Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,Dr DY Patil Sports Academy,Deccan Chargers
+Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Dr DY Patil Sports Academy,Chennai Super Kings
+Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Rajasthan Royals,Deccan Chargers,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals
+Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,Nehru Stadium,Kochi Tuskers Kerala
+Mumbai Indians,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Delhi Daredevils
+Pune Warriors,Pune Warriors,Kings XI Punjab,Dr DY Patil Sports Academy,Kings XI Punjab
+Kolkata Knight Riders,Kolkata Knight Riders,Deccan Chargers,Eden Gardens,Kolkata Knight Riders
+Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,Delhi Daredevils
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians
+Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Pune Warriors,Pune Warriors,Kochi Tuskers Kerala,Dr DY Patil Sports Academy,Kochi Tuskers Kerala
+Deccan Chargers,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore
+Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Kolkata Knight Riders
+Kochi Tuskers Kerala,Mumbai Indians,Kochi Tuskers Kerala,Wankhede Stadium,Kochi Tuskers Kerala
+Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Kings XI Punjab,Deccan Chargers,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab
+Delhi Daredevils,Pune Warriors,Delhi Daredevils,Dr DY Patil Sports Academy,Delhi Daredevils
+Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Kolkata Knight Riders
+Kochi Tuskers Kerala,Kochi Tuskers Kerala,Chennai Super Kings,Nehru Stadium,Kochi Tuskers Kerala
+Deccan Chargers,Delhi Daredevils,Deccan Chargers,Feroz Shah Kotla,Deccan Chargers
+Mumbai Indians,Mumbai Indians,Pune Warriors,Wankhede Stadium,Pune Warriors
+Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,Eden Gardens,Kolkata Knight Riders
+Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals
+Mumbai Indians,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore
+Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Kings XI Punjab
+Mumbai Indians,Deccan Chargers,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers
+Rajasthan Royals,Rajasthan Royals,Kochi Tuskers Kerala,Sawai Mansingh Stadium,Rajasthan Royals
+Chennai Super Kings,Chennai Super Kings,Pune Warriors,"MA Chidambaram Stadium, Chepauk",Pune Warriors
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Royal Challengers Bangalore
+Chennai Super Kings,Pune Warriors,Chennai Super Kings,Dr DY Patil Sports Academy,Pune Warriors
+Deccan Chargers,Kochi Tuskers Kerala,Deccan Chargers,Nehru Stadium,Kochi Tuskers Kerala
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils
+Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals
+Royal Challengers Bangalore,Royal Challengers Bangalore,Pune Warriors,M Chinnaswamy Stadium,Pune Warriors
+Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,Nehru Stadium,Delhi Daredevils
+Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kolkata Knight Riders
+Rajasthan Royals,Rajasthan Royals,Pune Warriors,Sawai Mansingh Stadium,Rajasthan Royals
+Chennai Super Kings,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Mumbai Indians,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Kings XI Punjab
+Kochi Tuskers Kerala,Delhi Daredevils,Kochi Tuskers Kerala,Feroz Shah Kotla,Kochi Tuskers Kerala
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers
+Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals
+Mumbai Indians,Pune Warriors,Mumbai Indians,Dr DY Patil Sports Academy,Pune Warriors
+Kochi Tuskers Kerala,Kochi Tuskers Kerala,Kolkata Knight Riders,Nehru Stadium,Kolkata Knight Riders
+Delhi Daredevils,Deccan Chargers,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Delhi Daredevils
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab
+Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Chennai Super Kings
+Mumbai Indians,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kochi Tuskers Kerala,M Chinnaswamy Stadium,Kochi Tuskers Kerala
+Pune Warriors,Kings XI Punjab,Pune Warriors,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Rajasthan Royals
+Pune Warriors,Deccan Chargers,Pune Warriors,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers
+Kings XI Punjab,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Royal Challengers Bangalore
+Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Kings XI Punjab,Kochi Tuskers Kerala,Kings XI Punjab,Holkar Cricket Stadium,Kings XI Punjab
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Deccan Chargers,Mumbai Indians,Deccan Chargers,Wankhede Stadium,Deccan Chargers
+Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,Delhi Daredevils
+Kochi Tuskers Kerala,Kochi Tuskers Kerala,Rajasthan Royals,Holkar Cricket Stadium,Kochi Tuskers Kerala
+Deccan Chargers,Pune Warriors,Deccan Chargers,Dr DY Patil Sports Academy,Deccan Chargers
+Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab
+Chennai Super Kings,Chennai Super Kings,Kochi Tuskers Kerala,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,Dr DY Patil Sports Academy,Kolkata Knight Riders
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Mumbai Indians
+Deccan Chargers,Kings XI Punjab,Deccan Chargers,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab
+NULL,Delhi Daredevils,Pune Warriors,Feroz Shah Kotla,Delhi Daredevils
+Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Mumbai Indians
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings
+Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians
+Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Mumbai Indians
+Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Delhi Daredevils
+Pune Warriors,Mumbai Indians,Pune Warriors,Wankhede Stadium,Mumbai Indians
+Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Kings XI Punjab
+Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Delhi Daredevils
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers
+Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Kolkata Knight Riders
+Pune Warriors,Pune Warriors,Kings XI Punjab,Subrata Roy Sahara Stadium,Pune Warriors
+Mumbai Indians,Deccan Chargers,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Delhi Daredevils,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Delhi Daredevils
+Mumbai Indians,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Rajasthan Royals
+Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore
+Kings XI Punjab,Kings XI Punjab,Pune Warriors,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals
+Delhi Daredevils,Delhi Daredevils,Deccan Chargers,Feroz Shah Kotla,Deccan Chargers
+Pune Warriors,Pune Warriors,Chennai Super Kings,Subrata Roy Sahara Stadium,Chennai Super Kings
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kolkata Knight Riders
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Rajasthan Royals
+Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils
+Rajasthan Royals,Rajasthan Royals,Deccan Chargers,Sawai Mansingh Stadium,Deccan Chargers
+Royal Challengers Bangalore,Royal Challengers Bangalore,Pune Warriors,M Chinnaswamy Stadium,Pune Warriors
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Delhi Daredevils,Deccan Chargers,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers
+Chennai Super Kings,Chennai Super Kings,Pune Warriors,"MA Chidambaram Stadium, Chepauk",Pune Warriors
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore
+Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals
+Pune Warriors,Delhi Daredevils,Pune Warriors,Feroz Shah Kotla,Delhi Daredevils
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Barabati Stadium,Kolkata Knight Riders
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Rajasthan Royals
+Delhi Daredevils,Pune Warriors,Delhi Daredevils,Subrata Roy Sahara Stadium,Pune Warriors
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Deccan Chargers,Pune Warriors,Deccan Chargers,Subrata Roy Sahara Stadium,Deccan Chargers
+Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Mumbai Indians
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Kings XI Punjab
+Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Kolkata Knight Riders
+Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Delhi Daredevils
+Mumbai Indians,Mumbai Indians,Deccan Chargers,Wankhede Stadium,Mumbai Indians
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Deccan Chargers,Deccan Chargers,Pune Warriors,Barabati Stadium,Deccan Chargers
+Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,Rajasthan Royals
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab
+Mumbai Indians,Pune Warriors,Mumbai Indians,Subrata Roy Sahara Stadium,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Kolkata Knight Riders,Kolkata Knight Riders,Pune Warriors,Eden Gardens,Kolkata Knight Riders
+Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals
+Mumbai Indians,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai Indians
+Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils
+Rajasthan Royals,Pune Warriors,Rajasthan Royals,Subrata Roy Sahara Stadium,Pune Warriors
+Kings XI Punjab,Deccan Chargers,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Royal Challengers Bangalore
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Chennai Super Kings
+Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,Subrata Roy Sahara Stadium,Pune Warriors
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Rajasthan Royals,Rajasthan Royals,Pune Warriors,Sawai Mansingh Stadium,Rajasthan Royals
+Kings XI Punjab,Kings XI Punjab,Deccan Chargers,"Punjab Cricket Association Stadium, Mohali",Deccan Chargers
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Chennai Super Kings
+Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Kings XI Punjab
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians
+Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi Daredevils
+Deccan Chargers,Deccan Chargers,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals
+Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,Delhi Daredevils
+Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Kolkata Knight Riders
+Deccan Chargers,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Kolkata Knight Riders
+Chennai Super Kings,Chennai Super Kings,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Delhi Daredevils
+Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders
+Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians
+Sunrisers Hyderabad,Sunrisers Hyderabad,Pune Warriors,"Rajiv Gandhi International Stadium, Uppal",Pune Warriors
+Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Rajasthan Royals
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Mumbai Indians
+Kings XI Punjab,Pune Warriors,Kings XI Punjab,Subrata Roy Sahara Stadium,Pune Warriors
+Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore
+Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Kolkata Knight Riders
+Mumbai Indians,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Mumbai Indians
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Pune Warriors,Pune Warriors,Rajasthan Royals,Subrata Roy Sahara Stadium,Rajasthan Royals
+Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi Daredevils
+Mumbai Indians,Mumbai Indians,Pune Warriors,Wankhede Stadium,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Kolkata Knight Riders
+Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Rajasthan Royals
+Pune Warriors,Chennai Super Kings,Pune Warriors,"MA Chidambaram Stadium, Chepauk",Pune Warriors
+Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders
+Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,Subrata Roy Sahara Stadium,Pune Warriors
+Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Chennai Super Kings
+Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata Knight Riders
+Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Mumbai Indians
+Kings XI Punjab,Kings XI Punjab,Pune Warriors,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals
+Royal Challengers Bangalore,Royal Challengers Bangalore,Pune Warriors,M Chinnaswamy Stadium,Pune Warriors
+Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,Delhi Daredevils
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata Knight Riders
+Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad
+Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab
+Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh Stadium,Sunrisers Hyderabad
+Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders
+Delhi Daredevils,Delhi Daredevils,Pune Warriors,Shaheed Veer Narayan Singh International Stadium,Pune Warriors
+Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Rajasthan Royals
+Mumbai Indians,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians
+Chennai Super Kings,Pune Warriors,Chennai Super Kings,Subrata Roy Sahara Stadium,Chennai Super Kings
+Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians
+Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Shaheed Veer Narayan Singh International Stadium,Kolkata Knight Riders
+Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,Subrata Roy Sahara Stadium,Royal Challengers Bangalore
+Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals
+Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Delhi Daredevils
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab
+Mumbai Indians,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai Indians
+Rajasthan Royals,Rajasthan Royals,Pune Warriors,Sawai Mansingh Stadium,Pune Warriors
+Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Sunrisers Hyderabad
+Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,Delhi Daredevils
+Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals
+Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Kolkata Knight Riders
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi Daredevils
+Mumbai Indians,Pune Warriors,Mumbai Indians,Subrata Roy Sahara Stadium,Pune Warriors
+Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,JSCA International Stadium Complex,Kolkata Knight Riders
+Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Rajasthan Royals
+Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Kings XI Punjab
+Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,Sunrisers Hyderabad
+Pune Warriors,Kolkata Knight Riders,Pune Warriors,JSCA International Stadium Complex,Kolkata Knight Riders
+Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Mumbai Indians,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Rajasthan Royals
+Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Himachal Pradesh Cricket Association Stadium,Mumbai Indians
+Pune Warriors,Pune Warriors,Delhi Daredevils,Subrata Roy Sahara Stadium,Pune Warriors
+Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings
+Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders
+Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Feroz Shah Kotla,Chennai Super Kings
+Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,Feroz Shah Kotla,Sunrisers Hyderabad
+Mumbai Indians,Mumbai Indians,Rajasthan Royals,Eden Gardens,Rajasthan Royals
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,Eden Gardens,Mumbai Indians
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Sheikh Zayed Stadium,Kolkata Knight Riders
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Sharjah Cricket Stadium,Royal Challengers Bangalore
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Sheikh Zayed Stadium,Chennai Super Kings
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sheikh Zayed Stadium,Rajasthan Royals
+Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Dubai International Cricket Stadium,Royal Challengers Bangalore
+Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Dubai International Cricket Stadium,Kolkata Knight Riders
+Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Sharjah Cricket Stadium,Kings XI Punjab
+Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,Sheikh Zayed Stadium,Chennai Super Kings
+Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Sharjah Cricket Stadium,Sunrisers Hyderabad
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Dubai International Cricket Stadium,Rajasthan Royals
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stadium,Royal Challengers Bangalore
+Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,Dubai International Cricket Stadium,Sunrisers Hyderabad
+Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Dubai International Cricket Stadium,Mumbai Indians
+Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Sheikh Zayed Stadium,Rajasthan Royals
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Sheikh Zayed Stadium,Kolkata Knight Riders
+Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Sharjah Cricket Stadium,Mumbai Indians
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Sharjah Cricket Stadium,Sunrisers Hyderabad
+Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,Dubai International Cricket Stadium,Kings XI Punjab
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Sheikh Zayed Stadium,Rajasthan Royals
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Dubai International Cricket Stadium,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,JSCA International Stadium Complex,Chennai Super Kings
+Mumbai Indians,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Kings XI Punjab
+Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Rajasthan Royals
+Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,"Sardar Patel Stadium, Motera",Kolkata Knight Riders
+Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Chennai Super Kings
+Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Royal Challengers Bangalore
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils
+Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,Barabati Stadium,Chennai Super Kings
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,"Sardar Patel Stadium, Motera",Rajasthan Royals
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,Sunrisers Hyderabad
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Barabati Stadium,Kolkata Knight Riders
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,JSCA International Stadium Complex,Rajasthan Royals
+Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Delhi Daredevils
+Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab
+Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Barabati Stadium,Kolkata Knight Riders
+Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,"Sardar Patel Stadium, Motera",Delhi Daredevils
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,JSCA International Stadium Complex,Chennai Super Kings
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,"Sardar Patel Stadium, Motera",Mumbai Indians
+Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Kings XI Punjab
+Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore
+Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata Knight Riders
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians
+Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,JSCA International Stadium Complex,Sunrisers Hyderabad
+Mumbai Indians,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils
+Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings
+Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Kolkata Knight Riders
+Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Mumbai Indians,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Mumbai Indians
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,Kings XI Punjab
+Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Brabourne Stadium,Chennai Super Kings
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,Chennai Super Kings
+Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,M Chinnaswamy Stadium,Kolkata Knight Riders
+Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata Knight Riders
+Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Delhi Daredevils
+Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Maharashtra Cricket Association Stadium,Kings XI Punjab
+Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore
+Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Rajasthan Royals
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Sunrisers Hyderabad
+Rajasthan Royals,Rajasthan Royals,Mumbai Indians,"Sardar Patel Stadium, Motera",Mumbai Indians
+Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata Knight Riders
+Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Maharashtra Cricket Association Stadium,Kings XI Punjab
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rajasthan Royals
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai Indians
+Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Daredevils
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Kolkata Knight Riders
+Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,"Sardar Patel Stadium, Motera",Chennai Super Kings
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Kolkata Knight Riders
+Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,"Sardar Patel Stadium, Motera",Kings XI Punjab
+Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kolkata Knight Riders
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Mumbai Indians
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore
+Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,Mumbai Indians
+Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Royal Challengers Bangalore
+Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders
+NULL,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Rajasthan Royals
+Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders
+Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils
+Mumbai Indians,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Rajasthan Royals
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Chennai Super Kings
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians
+Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,Brabourne Stadium,Delhi Daredevils
+Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Sunrisers Hyderabad
+Mumbai Indians,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Brabourne Stadium,Rajasthan Royals
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab
+Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Sunrisers Hyderabad
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Royal Challengers Bangalore
+Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Delhi Daredevils,Delhi Daredevils,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,Chennai Super Kings
+Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore
+Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Kolkata Knight Riders
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab
+Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Brabourne Stadium,Rajasthan Royals
+NULL,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,Mumbai Indians
+Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore
+Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,JSCA International Stadium Complex,Chennai Super Kings
+Mumbai Indians,Mumbai Indians,Chennai Super Kings,Eden Gardens,Chennai Super Kings
+Rising Pune Supergiants,Mumbai Indians,Rising Pune Supergiants,Wankhede Stadium,Mumbai Indians
+Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders
+Gujarat Lions,Kings XI Punjab,Gujarat Lions,"Punjab Cricket Association IS Bindra Stadium, Mohali",Gujarat Lions
+Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Sunrisers Hyderabad
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Mumbai Indians
+Gujarat Lions,Gujarat Lions,Rising Pune Supergiants,Saurashtra Cricket Association Stadium,Rising Pune Supergiants
+Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Gujarat Lions,Mumbai Indians,Gujarat Lions,Wankhede Stadium,Gujarat Lions
+Kings XI Punjab,Kings XI Punjab,Rising Pune Supergiants,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rising Pune Supergiants
+Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Delhi Daredevils
+Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kolkata Knight Riders
+Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Mumbai Indians
+Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Saurashtra Cricket Association Stadium,Sunrisers Hyderabad
+Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Rising Pune Supergiants
+Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Mumbai Indians
+Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Gujarat Lions,Gujarat Lions,Royal Challengers Bangalore,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore
+Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Kolkata Knight Riders
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab
+Rising Pune Supergiants,Sunrisers Hyderabad,Rising Pune Supergiants,"Rajiv Gandhi International Stadium, Uppal",Rising Pune Supergiants
+Gujarat Lions,Delhi Daredevils,Gujarat Lions,Feroz Shah Kotla,Delhi Daredevils
+Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians
+Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,Maharashtra Cricket Association Stadium,Gujarat Lions
+Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Kolkata Knight Riders
+Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore
+Kings XI Punjab,Gujarat Lions,Kings XI Punjab,Saurashtra Cricket Association Stadium,Gujarat Lions
+Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,Maharashtra Cricket Association Stadium,Mumbai Indians
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Kolkata Knight Riders
+Delhi Daredevils,Gujarat Lions,Delhi Daredevils,Saurashtra Cricket Association Stadium,Delhi Daredevils
+Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab
+Rising Pune Supergiants,Delhi Daredevils,Rising Pune Supergiants,Feroz Shah Kotla,Rising Pune Supergiants
+Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Lions,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad
+Royal Challengers Bangalore,Royal Challengers Bangalore,Rising Pune Supergiants,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Mohali",Delhi Daredevils
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians
+Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,Eden Gardens,Gujarat Lions
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab
+Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians
+Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Delhi Daredevils
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians
+Royal Challengers Bangalore,Royal Challengers Bangalore,Gujarat Lions,M Chinnaswamy Stadium,Gujarat Lions
+Kolkata Knight Riders,Kolkata Knight Riders,Rising Pune Supergiants,Eden Gardens,Rising Pune Supergiants
+Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab
+Mumbai Indians,Mumbai Indians,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Daredevils
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore
+Rising Pune Supergiants,Rising Pune Supergiants,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rising Pune Supergiants
+Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab
+Gujarat Lions,Gujarat Lions,Kolkata Knight Riders,Green Park,Gujarat Lions
+Delhi Daredevils,Delhi Daredevils,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Delhi Daredevils
+Rising Pune Supergiants,Rising Pune Supergiants,Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kings XI Punjab
+Gujarat Lions,Gujarat Lions,Mumbai Indians,Green Park,Gujarat Lions
+Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Sunrisers Hyderabad
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium,Royal Challengers Bangalore
+Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Feroz Shah Kotla,Kolkata Knight Riders
+Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Feroz Shah Kotla,Sunrisers Hyderabad
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Sunrisers Hyderabad
+Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi International Stadium Uppal,Royal Challengers Bangalore
+Rising Pune Supergiants,Rising Pune Supergiants,Mumbai Indians,Maharashtra Cricket Association Stadium,Rising Pune Supergiant
+Kolkata Knight Riders,Gujarat Lions,Kolkata Knight Riders,Saurashtra Cricket Association Stadium,Kolkata Knight Riders
+Kings XI Punjab,Kings XI Punjab,Rising Pune Supergiants,Holkar Cricket Stadium,Kings XI Punjab
+Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Lions,Rajiv Gandhi International Stadium Uppal,Sunrisers Hyderabad
+Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians
+Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,Holkar Cricket Stadium,Royal Challengers Bangalore
+Delhi Daredevils,Rising Pune Supergiants,Delhi Daredevils,Maharashtra Cricket Association Stadium,Rising Pune Supergiants
+Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,Mumbai Indians
+Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kolkata Knight Riders
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians
+Gujarat Lions,Gujarat Lions,Rising Pune Supergiants,Saurashtra Cricket Association Stadium,Gujarat Lions
+Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Sunrisers Hyderabad
+Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils
+Mumbai Indians,Mumbai Indians,Gujarat Lions,Wankhede Stadium,Mumbai Indians
+Rising Pune Supergiants,Royal Challengers Bangalore,Rising Pune Supergiants,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils
+Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Rajiv Gandhi International Stadium Uppal,Kings XI Punjab
+Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,Saurashtra Cricket Association Stadium,Gujarat Lions
+Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,Rajiv Gandhi International Stadium Uppal,Sunrisers Hyderabad
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,Holkar Cricket Stadium,Mumbai Indians
+Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,Eden Gardens,Gujarat Lions
+Mumbai Indians,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils
+Rising Pune Supergiants,Rising Pune Supergiants,Sunrisers Hyderabad,Maharashtra Cricket Association Stadium,Rising Pune Supergiants
+Kings XI Punjab,Gujarat Lions,Kings XI Punjab,Saurashtra Cricket Association Stadium,Gujarat Lions
+Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore
+Rising Pune Supergiants,Mumbai Indians,Rising Pune Supergiants,Wankhede Stadium,Mumbai Indians
+abandoned,Royal Challengers Bangalore,Sunrisers Hyderabad,NULL,
+Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Kolkata Knight Riders
+Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,M Chinnaswamy Stadium,Gujarat Lions
+Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders
+Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Association IS Bindra Stadium Mohali,Kings XI Punjab
+Rising Pune Supergiants,Rising Pune Supergiants,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore
+tied,Gujarat Lions,Mumbai Indians,Saurashtra Cricket Association Stadium,Gujarat Lions
+Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Punjab Cricket Association IS Bindra Stadium Mohali,Kings XI Punjab
+Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi International Stadium Uppal,Kolkata Knight Riders
+Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Royal Challengers Bangalore
+Rising Pune Supergiants,Rising Pune Supergiants,Gujarat Lions,Maharashtra Cricket Association Stadium,Rising Pune Supergiants
+Delhi Daredevils,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi Daredevils
+Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,Eden Gardens,Rising Pune Supergiants
+Delhi Daredevils,Delhi Daredevils,Gujarat Lions,Feroz Shah Kotla,Delhi Daredevils
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Royal Challengers Bangalore
+Rising Pune Supergiants,Sunrisers Hyderabad,Rising Pune Supergiants,Rajiv Gandhi International Stadium Uppal,Sunrisers Hyderabad
+Mumbai Indians,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Delhi Daredevils
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Kolkata Knight Riders
+Gujarat Lions,Kings XI Punjab,Gujarat Lions,Punjab Cricket Association IS Bindra Stadium Mohali,Gujarat Lions
+Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi International Stadium Uppal,Mumbai Indians
+Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Punjab Cricket Association IS Bindra Stadium Mohali,Kolkata Knight Riders
+Delhi Daredevils,Gujarat Lions,Delhi Daredevils,Green Park,Delhi Daredevils
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians
+Delhi Daredevils,Delhi Daredevils,Rising Pune Supergiants,Feroz Shah Kotla,Delhi Daredevils
+Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Green Park,Sunrisers Hyderabad
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata Knight Riders
+Rising Pune Supergiants,Rising Pune Supergiants,Kings XI Punjab,Maharashtra Cricket Association Stadium,Rising Pune Supergiants
+Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Royal Challengers Bangalore
+Rising Pune Supergiants,Mumbai Indians,Rising Pune Supergiants,Wankhede Stadium,Mumbai Indians
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,M Chinnaswamy Stadium,Kolkata Knight Riders
+Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,M Chinnaswamy Stadium,Mumbai Indians
+Mumbai Indians,Mumbai Indians,Rising Pune Supergiants,Rajiv Gandhi International Stadium Uppal,Mumbai Indians
